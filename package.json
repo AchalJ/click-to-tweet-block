@@ -1,0 +1,19 @@
+{
+	"name": "ib-click-to-tweet",
+	"version": "1.0.0",
+	"description": "Add a quote for visitors to tweet via Twitter.",
+	"author": "Achal Jain",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build --config webpack.config.js",
+		"format:js": "wp-scripts format-js",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"start": "wp-scripts start",
+		"packages-update": "wp-scripts packages-update"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^12.2.1"
+	}
+}
