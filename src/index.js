@@ -10,7 +10,7 @@ import './style.scss';
 
 const { name, icon, category, keywords, supports } = metadata;
 
-registerBlockType( 'ib-click-to-tweet/click-to-tweet', {
+registerBlockType( name, {
 	title: __( 'Click to Tweet', 'ib-click-to-tweet' ),
 	description: __(
 		'Add a quote for visitors to tweet via Twitter.',
