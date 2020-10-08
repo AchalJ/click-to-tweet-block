@@ -1,5 +1,5 @@
 === Click To Tweet Block ===
-Contributors:      ibachal mhimon
+Contributors:      ibachal, mhimon
 Tags:              block, tweet block, quote, twitter, social share
 Requires at least: 5.3.2
 Tested up to:      5.5.1
