@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:     Click To Tweet Block
+ * Plugin URI:		https://wordpress.org/plugins/click-to-tweeet-block/
  * Description:     Gutenberg block to add a quote for visitors to tweet via Twitter.
  * Version:         1.0.0
  * Author:          Achal Jain, Mahbub Hasan Imon
